@@ -2,6 +2,8 @@
 
 ## Task is Done:
 ## Endpoints For The Task
+- `npm run start` to start the project
+- `npm run test` run unit testing
 - `/voucher/generate` generate random 10 vouchers
 - `/voucher/available` listing the available vouchers
 - `/redeem/:code/:customerId` redeem the voucher with the code `:code`
