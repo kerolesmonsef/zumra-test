@@ -1,0 +1,26 @@
+{
+  "name": "zumra-test",
+  "version": "1.0.0",
+  "description": "## The problem: Task: Voucher Pool The objective is to create a voucher pool microservice based in NodeJs. You can use whichever libraries you prefer. The service should expose a ​REST API​.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumrafood/zumra-test.git"
+  },
+  "author": "keroles monsef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zumrafood/zumra-test/issues"
+  },
+  "homepage": "https://github.com/zumrafood/zumra-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
